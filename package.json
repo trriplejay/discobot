@@ -4,7 +4,7 @@
   "description": "for discord",
   "main": "app.js",
   "dependencies": {
-    "discord": "^0.8.2",
+    "discord.js": "^11.0.0",
     "sentiment": "^4.0.0"
   },
   "devDependencies": {},
