@@ -1,0 +1,28 @@
+{
+  "name": "discobot",
+  "version": "1.0.0",
+  "description": "for discord",
+  "main": "app.js",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "sentiment": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/trriplejay/discobot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "john stockbauer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/trriplejay/discobot/issues"
+  },
+  "homepage": "https://gitlab.com/trriplejay/discobot#README"
+}
