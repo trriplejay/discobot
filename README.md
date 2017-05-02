@@ -1,5 +1,7 @@
-## experimental bot for discord
+## Discobot - sentiment analysis for discord
+
+### current features
+- direct sentiment score response
 
 ### future features:
-- general sentiment analysis and reporting
-
+- general sentiment analysis and data collection
